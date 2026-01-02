@@ -1,0 +1,42 @@
+1. Enter Source City: mumbai
+
+Top Weekend Destinations from mumbai:
+
+                            Name          State           City  time needed to visit in hrs  Google review rating  Number of google review in lakhs
+315  Buddh International Circuit  Uttar Pradesh  Greater Noida                          2.0                   4.6                               7.4
+0                     India Gate          Delhi          Delhi                          0.5                   4.6                               2.6
+43                 Howrah Bridge    West Bengal        Kolkata                          0.5                   4.6                               1.2
+30                Vidhana Soudha      Karnataka      Bangalore                          0.5                   4.6                               0.8
+296       Baba Baidyanath Temple      Jharkhand        Deoghar                          1.0                   4.7                               1.8
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Enter Source City: Sikkim
+
+Top Weekend Destinations from Sikkim:
+
+                            Name          State           City  time needed to visit in hrs  Google review rating  Number of google review in lakhs
+315  Buddh International Circuit  Uttar Pradesh  Greater Noida                          2.0                   4.6                               7.4
+0                     India Gate          Delhi          Delhi                          0.5                   4.6                               2.6
+17              Gateway of India     Maharastra         Mumbai                          1.0                   4.6                               3.6
+43                 Howrah Bridge    West Bengal        Kolkata                          0.5                   4.6                               1.2
+30                Vidhana Soudha      Karnataka      Bangalore                          0.5                   4.6                               0.8
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Enter Source City: Kerala
+
+Top Weekend Destinations from Kerala:
+
+                            Name          State           City  time needed to visit in hrs  Google review rating  Number of google review in lakhs
+315  Buddh International Circuit  Uttar Pradesh  Greater Noida                          2.0                   4.6                               7.4
+0                     India Gate          Delhi          Delhi                          0.5                   4.6                               2.6
+17              Gateway of India     Maharastra         Mumbai                          1.0                   4.6                               3.6
+43                 Howrah Bridge    West Bengal        Kolkata                          0.5                   4.6                               1.2
+30                Vidhana Soudha      Karnataka      Bangalore                          0.5                   4.6                               0.8
+
+
+

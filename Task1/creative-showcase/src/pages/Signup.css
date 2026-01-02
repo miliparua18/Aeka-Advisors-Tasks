@@ -1,0 +1,98 @@
+/* Container */
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #d49c9c;
+  font-family: Arial, sans-serif;
+}
+
+/* Signup box */
+.signup-box {
+  background-color: #fff;
+  padding: 40px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+/* Title */
+.signup-box h2 {
+  margin-bottom: 25px;
+  font-size: 28px;
+  color: #333;
+}
+
+/* Input fields */
+.signup-box input[type="text"],
+.signup-box input[type="password"] {
+  width: 100%;
+  padding: 12px 15px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+  transition: border-color 0.3s;
+}
+
+.signup-box input:focus {
+  outline: none;
+  border-color: #ff69b4; /* rose focus */
+}
+
+/* Register Button */
+.signup-box button {
+  width: 100%;
+  padding: 12px 0;
+  background-color: #ff69b4; /* rose color */
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.signup-box button:hover {
+  background-color: #ff85c1;
+}
+
+/* Links */
+.signup-box .links {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #333;
+}
+
+.signup-box .links a {
+  color: #ff69b4;
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+.signup-box .links a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .signup-box {
+    padding: 30px 20px;
+  }
+  .signup-box h2 {
+    font-size: 24px;
+  }
+  .signup-box input[type="text"],
+  .signup-box input[type="password"] {
+    font-size: 14px;
+    padding: 10px 12px;
+  }
+  .signup-box button {
+    font-size: 14px;
+    padding: 10px 0;
+  }
+}

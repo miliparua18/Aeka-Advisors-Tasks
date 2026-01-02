@@ -1,0 +1,15 @@
+.profile-container {
+  padding: 20px;
+  text-align: center;
+}
+.masonry {
+  column-count: 3;
+  column-gap: 15px;
+  margin-top: 25px;
+}
+.masonry img {
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
