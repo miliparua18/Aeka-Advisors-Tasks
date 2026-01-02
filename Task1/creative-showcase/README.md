@@ -12,7 +12,7 @@ This project is built using *Create React App* and focuses on frontend fundament
 # Live Demo
 
  *Hosted Application (Netlify):*  
-PASTE YOUR NETLIFY LINK HERE  
+https://milishowcaseapp.netlify.app/  
 
  *GitHub Repository:*  
 https://github.com/miliparua18/Aeka-Advisors-Tasks  
